@@ -94,6 +94,8 @@ app_license = "mit"
 # before_uninstall = "treedoctype.uninstall.before_uninstall"
 # after_uninstall = "treedoctype.uninstall.after_uninstall"
 
+
+
 # Integration Setup
 # ------------------
 # To set up dependencies/integrations with other apps
